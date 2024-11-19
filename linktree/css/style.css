@@ -1,6 +1,6 @@
 body {
-    color: black;
-    background-image: url("../linktree/img/logo.png");
+    /* color: black; */
+    background-image: url('./linktree/img/fondo.jpg');
    
     background-attachment: fixed;
     background-size: cover;
@@ -32,9 +32,14 @@ body {
   .w3-theme-l1:hover {
     background-color: #f4da15 !important;
   }
+
+p{
+color: yellow;
+}
   
   .margin-top-2 {
     margin-top: 32px;
+    color: yellow;
   }
   
   .bottom {
